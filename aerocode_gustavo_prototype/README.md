@@ -1,7 +1,7 @@
 # Para rodar
 
 # 1. Clone o repositório
-git clone https://github.com/moreiragu/av2.git
+git clone https://github.com/gutibrk74/AV2.git
 
 # 2. Acesse o diretório do projeto
 cd av2
